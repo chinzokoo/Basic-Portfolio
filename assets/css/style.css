@@ -22,7 +22,6 @@ header {
     background-color: #ffffff;
     left: 0;
     top: 0;
-    height: 45px;
     width:100%;
     margin:0 auto;
     border-bottom: 2px solid #cccccc;
@@ -31,10 +30,10 @@ header {
 
 #nameLogo {
     background-color: #4aaaa5;
-    font-size: 26px;
+    font-size: 28px;
     float: left;
     font-family: 'Georgia', Times, Times New Roman, serif;
-    width: 25%;
+    width: 35%;
     padding: 6.5px;
     text-align: center;
     color: #ffffff;
@@ -79,6 +78,7 @@ header {
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
     color: #777777;
     text-align: justify;
+    padding-bottom: 200px;
 }
 
 hr {
@@ -95,6 +95,9 @@ h2 {
     font-weight: 500;
     padding: 14px;
     color: #4aaaa5;
+}
+.contenttitle {
+    font-size: 35px !important;
 }
 /** End of General Content Box Info **/
 
